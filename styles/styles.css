@@ -1,0 +1,25 @@
+html,body{
+    background-image: url('../assets/images/09-11-2016_germany-9.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    }
+
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+
+.container-fluid {
+    height: 100%
+  }
+
+.vert-cent {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.row-top{ 
+    margin-top:20px; 
+}
